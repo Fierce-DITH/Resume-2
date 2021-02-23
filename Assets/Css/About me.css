@@ -1,0 +1,58 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+/*Header, button, hr*/
+header > .container > .row > .col > a
+{
+    text-decoration: none;
+    color: #828282;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+} 
+header > .container > .row > .col > a:hover
+{
+    color: black;
+}
+header > .container > .row > .col
+{
+    margin-top: 32.99px;
+}
+/*main*/
+main > .container > .row > .col > .one
+{
+    position: absolute;
+    left: 44.68%;
+    right: 44.54%;
+    top: 18.66%;
+    bottom: 80.43%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+main > .container > .row > .col > .two
+{
+    position: absolute;
+    left: 33.24%;
+    right: 33.17%;
+    top: 35.7%;
+    width: 33.59%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 60px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}

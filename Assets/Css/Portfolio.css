@@ -1,0 +1,23 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+/*Header, button, hr*/
+header > .container > .row > .col > a
+{
+    text-decoration: none;
+    color: #828282;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+} 
+header > .container > .row > .col > a:hover
+{
+    color: black;
+}
+header > .container > .row > .col
+{
+    margin-top: 32.99px;
+}
