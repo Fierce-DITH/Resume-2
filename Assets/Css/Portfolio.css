@@ -21,3 +21,17 @@ header > .container > .row > .col
 {
     margin-top: 32.99px;
 }
+/*main*/
+main > .container > .row > .col
+{
+    
+    left: 44.62%;
+    right: 44.21%;
+    margin-top: 5.96%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
