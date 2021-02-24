@@ -85,12 +85,12 @@ footer > .container
     right: 40%;
     top: 70%;
 }
-footer > .container > .row > .col-lg-12 > p
+footer > .container > .row > .col-lg-12
 {
     position: absolute;
-    left: 37.83%;
-    right: 47.35%;
-    margin-top: 4.7%;
+    left: -5.83%;
+    right: 50.35%;
+    margin-top: 10.7%;
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 14px;
