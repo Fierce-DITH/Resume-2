@@ -77,3 +77,10 @@ main > .container > .row > .col > button > a
 
     text-align: center;
 }
+/*footer*/
+footer > .container
+{
+    position: absolute;
+    left: 19%;
+    top: 70%;
+}
