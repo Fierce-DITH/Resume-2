@@ -35,3 +35,50 @@ main > .container > .row > .col
     text-align: center;
     color: #070707;
 }
+main > .container > .row > .col > .one
+{
+    position: absolute;
+    left: 35.79%;
+    right: 35.1%;
+    margin-top: 27.51%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+}
+main > .container > .row > .col > .twoimg
+{
+    margin-top: 16%;
+}
+main > .container > .row > .col > .two
+{
+    position: absolute;
+    margin-top: 40%;
+    left: 35.79%;
+    right: 35.1%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+}
+main > .container > .row > .col > .threeimg
+{
+    margin-top: 20%;
+}
+main > .container > .row > .col > .three
+{
+    position: absolute;
+    margin-top: 43%;
+    left: 35.79%;
+    right: 35.1%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+}
