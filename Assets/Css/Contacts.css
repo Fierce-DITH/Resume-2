@@ -21,3 +21,59 @@ header > .container > .row > .col
 {
     margin-top: 32.99px;
 }
+/*main*/
+main > .container > .row > .col > .one
+{
+    position: absolute;
+    left: 44.89%;
+    right: 45.03%;
+    top: 20.66%;
+    bottom: 9.76%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+main > .container > .row > .col > .two
+{
+    position: absolute;
+    left: 42.86%;
+    right: 43.1%;
+    top: 27.66%;
+    bottom: 8.42%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    /* Black */
+
+    color: #070707;
+}
+main > .container > .row > .col > button
+{
+    position: absolute;
+    background-color: black;
+    border: black;
+    width: 10%;
+    height: 6%;
+    border-radius: 12px;
+
+    left: 45%;
+    right: 45%;
+    top: 50%;
+    bottom: 42%;
+}
+main > .container > .row > .col > button > a
+{
+    text-decoration: none;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+
+    text-align: center;
+}
